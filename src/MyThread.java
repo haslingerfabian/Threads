@@ -1,7 +1,7 @@
 import java.util.function.Consumer;
 
 
-public class Thread_test
+public class Threads
 {
     public void run()
     {
@@ -21,9 +21,4 @@ public class Thread_test
         threadTest2.start();
         threadTest3.start();
     }
-
-
-
-
-
 }
